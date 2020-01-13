@@ -5,7 +5,7 @@ I attempted to build upon the scaffolding for an FPS game provided by the Unity 
 
 I learned the layout of the Unity engine interface. I also got comfortable clicking around the scene of the game and editing small things like color. 
 
-There were some concepts that I did not fully grasp, so I decided to do another 3D tutorial, which is described below.
+There were some concepts that I did not fully grasp, so I decided to do another 3D tutorial, which is described below. Github did not like the amount of files and file size of the entire project, so only the build files have been uploaded.
 
 ## JohnLemon Unity3D Tutorial
 I attempted to build a stealth-based game, following the John Lemon's Haunted Jaunt 3D Beginner Tutorial. The player walks through a haunted house populated by gargoyle sentries and roaming ghosts. The goal is to escape the house without being seen by the dangerous residents.
@@ -19,4 +19,4 @@ I attempted to build a small-scale RPG. I built upon the RPG template provided b
 
 I gained more confidence creating and editing items in the Unity menus and gained insight on how to craft a story together by weaving creative and technical elements together.
 
-I had some difficulty with the tutorial's wording: it was vague at times. Otherwise, this was the easiest of the three tutorials.
+I had some difficulty with the tutorial's wording: it was vague at times. Otherwise, this was the easiest of the three tutorials. Github was also not a fan of the size and quantity of these files, so only the build has been uploaded.
